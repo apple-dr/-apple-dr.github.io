@@ -1,5 +1,5 @@
 /*alert("你好呀!歡迎來到我的網頁")
-prompt("enter you name")*/
+prompt("enter you name")
 //------------------------------------------
 //var為變量宣告的專有名詞
 let x
@@ -9,3 +9,4 @@ var math
 math = 18
 console.log(math)
 
+*/
